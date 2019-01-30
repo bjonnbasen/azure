@@ -14,7 +14,7 @@ namespace azure.Controllers
         public string GET()
         {
 
-            return "Liaquat Ali";
+            return "Liaquat Ali Tahir";
         }
 
         [HttpPost]
